@@ -34,6 +34,15 @@ def sha1(p, n=1 << 20):
     return h.hexdigest()
 
 
+def _read_norm(p):
+    """文本文件按换行归一化读取（兼容 git autocrlf），二进制保持原样。"""
+    with open(p, "rb") as f:
+        data = f.read()
+    if os.path.splitext(p)[1].lower() in (".py", ".md", ".txt", ".json"):
+        data = data.replace(b"\r\n", b"\n")
+    return data
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--cunai", default=r"F:\Kaifa\cun.ai")
@@ -71,9 +80,9 @@ def main():
                 print(f"FAIL 缺失本仓库文件: {a}")
             elif not os.path.exists(pb):
                 print(f"WARN cun.ai 缺失(仅提示): {b}")
-            elif sha1(pa) != sha1(pb):
+            elif _read_norm(pa) != _read_norm(pb):
                 ok = False
-                print(f"FAIL 哈希不一致: {a} <-> {b}")
+                print(f"FAIL 内容不一致: {a} <-> {b}")
             else:
                 print(f"PASS {a} == {b}")
 

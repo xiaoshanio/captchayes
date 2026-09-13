@@ -7,7 +7,7 @@ venv/
 .pytest_cache/
 # 运行产物（保留 docs/res.jpg 作为 demo 输入）
 res2.jpg
-res*.jpg
+/res2.jpg
 *.log
 # 本地环境
 .env

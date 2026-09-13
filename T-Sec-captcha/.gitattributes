@@ -1,0 +1,9 @@
+# 保证 git clone 后 .py 哈希与 cun.ai 一致（LF），模型/图片按二进制处理
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.onnx binary
+*.jpg binary
+*.png binary
+*.gif binary
