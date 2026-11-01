@@ -1,0 +1,45 @@
+{
+  "rows": [
+    {
+      "case": "A_gt_gt",
+      "label": "A 真值框 → 真值框（上界）",
+      "n": 34,
+      "ok": 31,
+      "rate": 0.9118
+    },
+    {
+      "case": "B_det_det",
+      "label": "B 检测框 → 检测框（真实推理）",
+      "n": 34,
+      "ok": 21,
+      "rate": 0.6176
+    },
+    {
+      "case": "C_gtp_dett",
+      "label": "C 真值提示 + 检测目标",
+      "n": 34,
+      "ok": 19,
+      "rate": 0.5588
+    },
+    {
+      "case": "D_detp_gtt",
+      "label": "D 检测提示 + 真值目标",
+      "n": 34,
+      "ok": 19,
+      "rate": 0.5588
+    }
+  ],
+  "box_iou": {
+    "mean": 0.8099352777001073,
+    "p10": 0.6887602271146575
+  },
+  "args": {
+    "det": "runs/drift_rec/export/detB.onnx",
+    "mat": "runs/drift_rec/export/matB.onnx",
+    "data": "data/driftB",
+    "limit": 40,
+    "conf": 0.2,
+    "pad": 0,
+    "out": "out/cs_gt"
+  }
+}

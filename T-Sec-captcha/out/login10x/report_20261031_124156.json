@@ -1,0 +1,115 @@
+{
+  "username": "zanjianwan25946",
+  "times": 1,
+  "started": "2026-10-31T12:41:56+08:00",
+  "runs": [
+    {
+      "attempt": 1,
+      "ok": false,
+      "kinds": [
+        "2404",
+        "2404"
+      ],
+      "solved_any": false,
+      "note": "",
+      "ms": 52959,
+      "events": [
+        {
+          "ev": "logout_by_clear_cookies"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 1,
+          "kind": "2404",
+          "title": "请依次点击：膊 绊 绷",
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 1,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "legacy_detect",
+          "attempt": 1,
+          "chars": [
+            "膊",
+            "绊",
+            "绷"
+          ],
+          "n_target": 3,
+          "n_char": 3
+        },
+        {
+          "ev": "solved_2404",
+          "attempt": 1,
+          "n": 3
+        },
+        {
+          "ev": "clicked",
+          "attempt": 1,
+          "n": 3,
+          "pts": [
+            [
+              776,
+              510
+            ],
+            [
+              775,
+              363
+            ],
+            [
+              580,
+              363
+            ]
+          ]
+        },
+        {
+          "ev": "after_click",
+          "attempt": 1,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 2,
+          "kind": "2404",
+          "title": "请依次点击：鞍 斑 橙",
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "solve_not_ok",
+          "attempt": 2,
+          "detail": "no_bg_img"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "attempts": 1,
+    "success": 0,
+    "success_rate": 0.0,
+    "captcha_passed_any": 0,
+    "captcha_pass_rate": 0.0,
+    "first_kind_counts": {
+      "2404": 1
+    },
+    "first_kind_success": {},
+    "ms_mean": 52959.0,
+    "finished": "2026-10-31T12:43:10+08:00"
+  }
+}

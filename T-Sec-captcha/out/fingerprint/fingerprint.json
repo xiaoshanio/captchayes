@@ -1,0 +1,45 @@
+{
+  "drissionpage": {
+    "webdriver": false,
+    "hasChromeRuntime": false,
+    "pluginsLen": 5,
+    "mimeTypesLen": 2,
+    "languages": "zh-CN,zh",
+    "platform": "Win32",
+    "vendor": "Google Inc.",
+    "hardwareConcurrency": 40,
+    "deviceMemory": 32,
+    "maxTouchPoints": 10,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "uaData": {
+      "brands": [
+        "Google Chrome/155",
+        "Chromium/155",
+        "Not(A:Brand/24"
+      ],
+      "mobile": false,
+      "platform": "Windows"
+    },
+    "webglVendor": "Google Inc. (NVIDIA)",
+    "webglRenderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 705 (0x0000104C) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "canvasHash": "2jkEkkDg/wAAAP//BbqhxAAAAAZJREFUAwCZtpp+i+p5SQAAAABJRU5ErkJggg==",
+    "timezone": "Asia/Shanghai",
+    "tzOffsetMin": -480,
+    "screen": "800x600@1",
+    "outer": "1920x1080",
+    "inner": "1904x985",
+    "colorDepth": 24,
+    "notificationPerm": "denied",
+    "cdcKeys": [],
+    "docKeys": [],
+    "iframeWebdriver": false,
+    "connection": "4g/100",
+    "mediaDevices": true,
+    "consistency": {
+      "uaLang": "zh-CN",
+      "tz": "Asia/Shanghai",
+      "platform": "Win32"
+    },
+    "exitIp": "152.175.65.134"
+  }
+}

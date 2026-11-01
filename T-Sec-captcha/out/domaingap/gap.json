@@ -1,0 +1,43 @@
+{
+  "A": {
+    "n": 20,
+    "size_mean": [
+      672,
+      536
+    ],
+    "strip_h_mean": 56,
+    "box_w_med": 78.0,
+    "box_h_med": 74.0,
+    "box_area_med": 5698.0,
+    "n_cls0_mean": 5.5,
+    "n_cls2_mean": 3.5,
+    "edge_density": 0.0229,
+    "sat_mean": 84.4,
+    "val_mean": 200.7,
+    "prompt_h_med": 38.0
+  },
+  "B": {
+    "n": 20,
+    "size_mean": [
+      672,
+      548
+    ],
+    "strip_h_mean": 56,
+    "box_w_med": 59.5,
+    "box_h_med": 60.0,
+    "box_area_med": 3439.0,
+    "n_cls0_mean": 6.5,
+    "n_cls2_mean": 3.45,
+    "edge_density": 0.0129,
+    "sat_mean": 93.2,
+    "val_mean": 167.7,
+    "prompt_h_med": 46
+  },
+  "js_divergence": 0.118984,
+  "drift_dims": [
+    "图标尺寸 0.60x（变小）",
+    "边缘密度 0.0229 -> 0.0129",
+    "背景灰度分布 (JS=0.1190)",
+    "底图图标数 5.5 -> 6.5"
+  ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "n": 60,
+    "exact": 2,
+    "exact_rate": 0.0333,
+    "err_rate": 0.0,
+    "class2_mismatch": 0.7333,
+    "matcher": "matB_gt",
+    "dedup": false
+  },
+  {
+    "n": 60,
+    "exact": 6,
+    "exact_rate": 0.1,
+    "err_rate": 0.0,
+    "class2_mismatch": 0.15,
+    "matcher": "matB_gt",
+    "dedup": true
+  },
+  {
+    "n": 60,
+    "exact": 3,
+    "exact_rate": 0.05,
+    "err_rate": 0.0,
+    "class2_mismatch": 0.7333,
+    "matcher": "matB_detpw",
+    "dedup": false
+  },
+  {
+    "n": 60,
+    "exact": 10,
+    "exact_rate": 0.1667,
+    "err_rate": 0.0,
+    "class2_mismatch": 0.15,
+    "matcher": "matB_detpw",
+    "dedup": true
+  },
+  {
+    "n": 60,
+    "exact": 1,
+    "exact_rate": 0.0167,
+    "err_rate": 0.0,
+    "class2_mismatch": 0.7333,
+    "matcher": "matA_old",
+    "dedup": false
+  },
+  {
+    "n": 60,
+    "exact": 5,
+    "exact_rate": 0.0833,
+    "err_rate": 0.0,
+    "class2_mismatch": 0.15,
+    "matcher": "matA_old",
+    "dedup": true
+  }
+]

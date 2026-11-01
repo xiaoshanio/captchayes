@@ -1,0 +1,2968 @@
+{
+  "username": "zanjianwan25946",
+  "times": 10,
+  "started": "2026-10-31T16:28:24+08:00",
+  "runs": [
+    {
+      "attempt": 1,
+      "ok": false,
+      "kinds": [
+        "2401",
+        "2401",
+        "2404"
+      ],
+      "solved_any": false,
+      "note": "",
+      "ms": 124432,
+      "events": [
+        {
+          "ev": "logout_by_clear_cookies"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 1,
+          "kind": "2401",
+          "title": "拖动下方滑块完成拼图",
+          "box": {
+            "x": 555,
+            "y": 359.0,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 1,
+          "wh": [
+            672,
+            390
+          ]
+        },
+        {
+          "ev": "slider",
+          "attempt": 1,
+          "gap": 332.0,
+          "gap_cy": 128.5,
+          "src": "outline",
+          "score": 28.1,
+          "piece_bg": 110.0,
+          "drag": 109.0
+        },
+        {
+          "ev": "login_state",
+          "attempt": 1,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 2,
+          "kind": "2401",
+          "title": "拖动下方滑块完成拼图",
+          "box": {
+            "x": 555,
+            "y": 359.0,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 2,
+          "wh": [
+            672,
+            390
+          ]
+        },
+        {
+          "ev": "slider",
+          "attempt": 2,
+          "gap": 568.5,
+          "gap_cy": 183.5,
+          "src": "outline",
+          "score": 79.7,
+          "piece_bg": 110.0,
+          "drag": 225.2
+        },
+        {
+          "ev": "login_state",
+          "attempt": 2,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 3,
+          "kind": "2404",
+          "title": "请依次点击：钵 膊 变",
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 3,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "legacy_detect",
+          "attempt": 3,
+          "chars": [
+            "钵",
+            "膊",
+            "变"
+          ],
+          "n_target": 3,
+          "n_char": 3
+        },
+        {
+          "ev": "solved_2404",
+          "attempt": 3,
+          "n": 3
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 3,
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 711,
+          "mean": 7.18,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 713,
+          "mean": 5.54,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 719,
+          "mean": 7.14,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 3,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              577,
+              511
+            ],
+            [
+              630,
+              510
+            ],
+            [
+              727,
+              463
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 3,
+          "kind": "2404",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 3,
+          "kind": "2404"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 3,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 3,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        }
+      ]
+    },
+    {
+      "attempt": 2,
+      "ok": false,
+      "kinds": [
+        "2401",
+        "2401",
+        "2408"
+      ],
+      "solved_any": false,
+      "note": "",
+      "ms": 130663,
+      "events": [
+        {
+          "ev": "logout_by_clear_cookies"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 1,
+          "kind": "2401",
+          "title": "拖动下方滑块完成拼图",
+          "box": {
+            "x": 555,
+            "y": 359.0,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 1,
+          "wh": [
+            672,
+            390
+          ]
+        },
+        {
+          "ev": "slider",
+          "attempt": 1,
+          "gap": 449.5,
+          "gap_cy": 212.0,
+          "src": "outline",
+          "score": 47.4,
+          "piece_bg": 110.0,
+          "drag": 166.7
+        },
+        {
+          "ev": "login_state",
+          "attempt": 1,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 2,
+          "kind": "2401",
+          "title": "拖动下方滑块完成拼图",
+          "box": {
+            "x": 555,
+            "y": 359.0,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 2,
+          "wh": [
+            672,
+            390
+          ]
+        },
+        {
+          "ev": "slider",
+          "attempt": 2,
+          "gap": 584.5,
+          "gap_cy": 143.5,
+          "src": "outline",
+          "score": 44.3,
+          "piece_bg": 110.0,
+          "drag": 233.0
+        },
+        {
+          "ev": "login_state",
+          "attempt": 2,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 3,
+          "kind": "2408",
+          "title": "请依次点击：",
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 3,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "det_2408",
+          "attempt": 3,
+          "n_class0": 5,
+          "n_class2": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "solved_2408",
+          "attempt": 3,
+          "ms": 164.8,
+          "n": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 3,
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 715,
+          "mean": 5.21,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 695,
+          "mean": 4.65,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 707,
+          "mean": 6.01,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 3,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              692,
+              396
+            ],
+            [
+              810,
+              514
+            ],
+            [
+              653,
+              515
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 3,
+          "kind": "2408",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 3,
+          "kind": "2408"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 3,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 3,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        }
+      ]
+    },
+    {
+      "attempt": 3,
+      "ok": true,
+      "kinds": [
+        "2408",
+        "2408",
+        "2408"
+      ],
+      "solved_any": false,
+      "note": "",
+      "captcha_accepted": true,
+      "ms": 116517,
+      "events": [
+        {
+          "ev": "logout_by_clear_cookies"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 1,
+          "kind": "2408",
+          "title": "请依次点击：",
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 1,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "det_2408",
+          "attempt": 1,
+          "n_class0": 5,
+          "n_class2": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "solved_2408",
+          "attempt": 1,
+          "ms": 145.4,
+          "n": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 1,
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 709,
+          "mean": 5.5,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 712,
+          "mean": 5.53,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 704,
+          "mean": 4.85,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 1,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              653,
+              436
+            ],
+            [
+              810,
+              475
+            ],
+            [
+              614,
+              358
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 1,
+          "kind": "2408",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 1,
+          "kind": "2408"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 1,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 1,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 2,
+          "kind": "2408",
+          "title": "请依次点击：",
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 2,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "det_2408",
+          "attempt": 2,
+          "n_class0": 5,
+          "n_class2": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "solved_2408",
+          "attempt": 2,
+          "ms": 223.8,
+          "n": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 2,
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 701,
+          "mean": 4.57,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 676,
+          "mean": 3.41,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 698,
+          "mean": 4.98,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 2,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              692,
+              436
+            ],
+            [
+              848,
+              396
+            ],
+            [
+              694,
+              475
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 2,
+          "kind": "2408",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 2,
+          "kind": "2408"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 2,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 2,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 3,
+          "kind": "2408",
+          "title": "请依次点击：",
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 3,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "det_2408",
+          "attempt": 3,
+          "n_class0": 5,
+          "n_class2": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "solved_2408",
+          "attempt": 3,
+          "ms": 173.2,
+          "n": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 3,
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 707,
+          "mean": 5.51,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 685,
+          "mean": 6.0,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 693,
+          "mean": 3.96,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 3,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              769,
+              515
+            ],
+            [
+              848,
+              475
+            ],
+            [
+              612,
+              515
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 3,
+          "kind": "2408",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 3,
+          "kind": "2408"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 3,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/dashboard/overview"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 3,
+          "url": "https://www.cun.ai/dashboard/overview",
+          "has_pw": false,
+          "bad_hit": [],
+          "err": null,
+          "reason": "ok"
+        }
+      ]
+    },
+    {
+      "attempt": 4,
+      "ok": true,
+      "kinds": [
+        "2408"
+      ],
+      "solved_any": false,
+      "note": "",
+      "captcha_accepted": true,
+      "ms": 32490,
+      "events": [
+        {
+          "ev": "logout_by_clear_cookies"
+        },
+        {
+          "ev": "logout_by_clear_cookies"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 1,
+          "kind": "2408",
+          "title": "请依次点击：",
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 1,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "det_2408",
+          "attempt": 1,
+          "n_class0": 5,
+          "n_class2": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "solved_2408",
+          "attempt": 1,
+          "ms": 159.0,
+          "n": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 1,
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 708,
+          "mean": 4.79,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 718,
+          "mean": 7.06,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 696,
+          "mean": 4.09,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 1,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              692,
+              475
+            ],
+            [
+              811,
+              475
+            ],
+            [
+              732,
+              358
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 1,
+          "kind": "2408",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 1,
+          "kind": "2408"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 1,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/dashboard/overview"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 1,
+          "url": "https://www.cun.ai/dashboard/overview",
+          "has_pw": false,
+          "bad_hit": [],
+          "err": null,
+          "reason": "ok"
+        }
+      ]
+    },
+    {
+      "attempt": 5,
+      "ok": false,
+      "kinds": [
+        "2408",
+        "2408",
+        "2408"
+      ],
+      "solved_any": false,
+      "note": "",
+      "ms": 100131,
+      "events": [
+        {
+          "ev": "logout_by_clear_cookies"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 1,
+          "kind": "2408",
+          "title": "请依次点击：",
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 1,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "det_2408",
+          "attempt": 1,
+          "n_class0": 11,
+          "n_class2": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "solved_2408",
+          "attempt": 1,
+          "ms": 156.0,
+          "n": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 1,
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 710,
+          "mean": 6.26,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 711,
+          "mean": 6.37,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 691,
+          "mean": 7.09,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 1,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              848,
+              437
+            ],
+            [
+              574,
+              514
+            ],
+            [
+              577,
+              437
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 1,
+          "kind": "2408",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 1,
+          "kind": "2408"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 1,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 1,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 2,
+          "kind": "2408",
+          "title": "请依次点击：",
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 2,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "det_2408",
+          "attempt": 2,
+          "n_class0": 5,
+          "n_class2": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "solved_2408",
+          "attempt": 2,
+          "ms": 216.0,
+          "n": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 2,
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 2677,
+          "mean": 21.81,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 694,
+          "mean": 4.08,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 698,
+          "mean": 4.61,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 2,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              614,
+              553
+            ],
+            [
+              771,
+              436
+            ],
+            [
+              654,
+              515
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 2,
+          "kind": "2408",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 2,
+          "kind": "2408"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 2,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 2,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 3,
+          "kind": "2408",
+          "title": "请依次点击：",
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 3,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "det_2408",
+          "attempt": 3,
+          "n_class0": 6,
+          "n_class2": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "solved_2408",
+          "attempt": 3,
+          "ms": 119.5,
+          "n": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 3,
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 712,
+          "mean": 5.32,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 705,
+          "mean": 5.74,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 703,
+          "mean": 4.73,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 3,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              774,
+              399
+            ],
+            [
+              653,
+              357
+            ],
+            [
+              849,
+              554
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 3,
+          "kind": "2408",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 3,
+          "kind": "2408"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 3,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 3,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        }
+      ]
+    },
+    {
+      "attempt": 6,
+      "ok": false,
+      "kinds": [
+        "2408",
+        "2408",
+        "2404"
+      ],
+      "solved_any": false,
+      "note": "",
+      "ms": 90088,
+      "events": [
+        {
+          "ev": "logout_by_clear_cookies"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 1,
+          "kind": "2408",
+          "title": "请依次点击：",
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 1,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "det_2408",
+          "attempt": 1,
+          "n_class0": 5,
+          "n_class2": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "solved_2408",
+          "attempt": 1,
+          "ms": 124.2,
+          "n": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 1,
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 714,
+          "mean": 5.21,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 704,
+          "mean": 6.56,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 704,
+          "mean": 6.11,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 1,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              809,
+              436
+            ],
+            [
+              692,
+              357
+            ],
+            [
+              771,
+              475
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 1,
+          "kind": "2408",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 1,
+          "kind": "2408"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 1,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 1,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 2,
+          "kind": "2408",
+          "title": "请依次点击：",
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 2,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "det_2408",
+          "attempt": 2,
+          "n_class0": 5,
+          "n_class2": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "solved_2408",
+          "attempt": 2,
+          "ms": 185.4,
+          "n": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 2,
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 683,
+          "mean": 6.8,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 722,
+          "mean": 6.28,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 708,
+          "mean": 5.3,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 2,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              770,
+              397
+            ],
+            [
+              614,
+              397
+            ],
+            [
+              849,
+              514
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 2,
+          "kind": "2408",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 2,
+          "kind": "2408"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 2,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 2,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 3,
+          "kind": "2404",
+          "title": "请依次点击：柏 帮 充",
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 3,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "legacy_detect",
+          "attempt": 3,
+          "chars": [
+            "柏",
+            "帮",
+            "充"
+          ],
+          "n_target": 3,
+          "n_char": 0
+        },
+        {
+          "ev": "solve_not_ok",
+          "attempt": 3,
+          "detail": "legacy_no_boxes"
+        }
+      ]
+    },
+    {
+      "attempt": 7,
+      "ok": false,
+      "kinds": [
+        "2404",
+        "2404",
+        "2404"
+      ],
+      "solved_any": false,
+      "note": "",
+      "ms": 99345,
+      "events": [
+        {
+          "ev": "logout_by_clear_cookies"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 1,
+          "kind": "2404",
+          "title": "请依次点击：掣 裁 悲",
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 1,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "legacy_detect",
+          "attempt": 1,
+          "chars": [
+            "掣",
+            "裁",
+            "悲"
+          ],
+          "n_target": 3,
+          "n_char": 3
+        },
+        {
+          "ev": "solved_2404",
+          "attempt": 1,
+          "n": 3
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 1,
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 701,
+          "mean": 5.14,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 713,
+          "mean": 6.65,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 703,
+          "mean": 5.54,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 1,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              824,
+              460
+            ],
+            [
+              677,
+              411
+            ],
+            [
+              675,
+              508
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 1,
+          "kind": "2404",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 1,
+          "kind": "2404"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 1,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 1,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 2,
+          "kind": "2404",
+          "title": "请依次点击：傲 胺 呈",
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 2,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "legacy_detect",
+          "attempt": 2,
+          "chars": [
+            "傲",
+            "胺",
+            "呈"
+          ],
+          "n_target": 3,
+          "n_char": 2
+        },
+        {
+          "ev": "solved_2404",
+          "attempt": 2,
+          "n": 2
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 2,
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 2
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 714,
+          "mean": 5.41,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 708,
+          "mean": 5.49,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 2,
+          "n": 2,
+          "received": 2,
+          "pts": [
+            [
+              824,
+              510
+            ],
+            [
+              676,
+              461
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 2,
+          "kind": "2404",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 2,
+          "kind": "2404"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 2,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 2,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 3,
+          "kind": "2404",
+          "title": "请依次点击：波 称 懊",
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 3,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "legacy_detect",
+          "attempt": 3,
+          "chars": [
+            "波",
+            "称",
+            "懊"
+          ],
+          "n_target": 3,
+          "n_char": 3
+        },
+        {
+          "ev": "solved_2404",
+          "attempt": 3,
+          "n": 3
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 3,
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 719,
+          "mean": 6.03,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 705,
+          "mean": 5.41,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 693,
+          "mean": 4.86,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 3,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              824,
+              363
+            ],
+            [
+              725,
+              459
+            ],
+            [
+              776,
+              462
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 3,
+          "kind": "2404",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 3,
+          "kind": "2404"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 3,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 3,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        }
+      ]
+    },
+    {
+      "attempt": 8,
+      "ok": false,
+      "kinds": [
+        "2408",
+        "2408",
+        "2401"
+      ],
+      "solved_any": false,
+      "note": "",
+      "ms": 112722,
+      "events": [
+        {
+          "ev": "logout_by_clear_cookies"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 1,
+          "kind": "2408",
+          "title": "请依次点击：",
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 1,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "det_2408",
+          "attempt": 1,
+          "n_class0": 6,
+          "n_class2": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "solved_2408",
+          "attempt": 1,
+          "ms": 122.3,
+          "n": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 1,
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 703,
+          "mean": 3.98,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 698,
+          "mean": 4.58,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 701,
+          "mean": 6.34,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 1,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              614,
+              515
+            ],
+            [
+              810,
+              553
+            ],
+            [
+              575,
+              436
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 1,
+          "kind": "2408",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 1,
+          "kind": "2408"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 1,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 1,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 2,
+          "kind": "2408",
+          "title": "请依次点击：",
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 2,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "det_2408",
+          "attempt": 2,
+          "n_class0": 6,
+          "n_class2": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "solved_2408",
+          "attempt": 2,
+          "ms": 113.0,
+          "n": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 2,
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 695,
+          "mean": 5.98,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 690,
+          "mean": 6.61,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 690,
+          "mean": 6.15,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 2,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              655,
+              395
+            ],
+            [
+              811,
+              398
+            ],
+            [
+              771,
+              397
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 2,
+          "kind": "2408",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 2,
+          "kind": "2408"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 2,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 2,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 3,
+          "kind": "2401",
+          "title": "拖动下方滑块完成拼图",
+          "box": {
+            "x": 555,
+            "y": 359.0,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 3,
+          "wh": [
+            672,
+            390
+          ]
+        },
+        {
+          "ev": "slider",
+          "attempt": 3,
+          "gap": 328.5,
+          "gap_cy": 218.5,
+          "src": "outline",
+          "score": 56.3,
+          "piece_bg": 110.0,
+          "drag": 107.3
+        },
+        {
+          "ev": "login_state",
+          "attempt": 3,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        }
+      ]
+    },
+    {
+      "attempt": 9,
+      "ok": true,
+      "kinds": [
+        "2408",
+        "2408",
+        "2401"
+      ],
+      "solved_any": false,
+      "note": "",
+      "captcha_accepted": true,
+      "ms": 101234,
+      "events": [
+        {
+          "ev": "logout_by_clear_cookies"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 1,
+          "kind": "2408",
+          "title": "请依次点击：",
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 1,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "det_2408",
+          "attempt": 1,
+          "n_class0": 5,
+          "n_class2": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "solved_2408",
+          "attempt": 1,
+          "ms": 122.3,
+          "n": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 1,
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 711,
+          "mean": 4.8,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 706,
+          "mean": 4.77,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 719,
+          "mean": 5.42,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 1,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              612,
+              398
+            ],
+            [
+              849,
+              554
+            ],
+            [
+              653,
+              554
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 1,
+          "kind": "2408",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 1,
+          "kind": "2408"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 1,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 1,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 2,
+          "kind": "2408",
+          "title": "请依次点击：",
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 2,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "det_2408",
+          "attempt": 2,
+          "n_class0": 5,
+          "n_class2": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "solved_2408",
+          "attempt": 2,
+          "ms": 209.6,
+          "n": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 2,
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 714,
+          "mean": 5.43,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 705,
+          "mean": 6.1,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 695,
+          "mean": 5.43,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 2,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              630,
+              499
+            ],
+            [
+              574,
+              554
+            ],
+            [
+              850,
+              436
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 2,
+          "kind": "2408",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 2,
+          "kind": "2408"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 2,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 2,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 3,
+          "kind": "2401",
+          "title": "拖动下方滑块完成拼图",
+          "box": {
+            "x": 555,
+            "y": 359.0,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 3,
+          "wh": [
+            672,
+            390
+          ]
+        },
+        {
+          "ev": "slider",
+          "attempt": 3,
+          "gap": 492.5,
+          "gap_cy": 280.5,
+          "src": "outline",
+          "score": 69.7,
+          "piece_bg": 110.0,
+          "drag": 187.8
+        },
+        {
+          "ev": "login_state",
+          "attempt": 3,
+          "url": "https://www.cun.ai/dashboard/overview",
+          "has_pw": false,
+          "bad_hit": [],
+          "err": null,
+          "reason": "ok"
+        }
+      ]
+    },
+    {
+      "attempt": 10,
+      "ok": false,
+      "kinds": [
+        "2404",
+        "2404",
+        "2404"
+      ],
+      "solved_any": false,
+      "note": "",
+      "ms": 178016,
+      "events": [
+        {
+          "ev": "logout_by_clear_cookies"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 1,
+          "kind": "2404",
+          "title": "请依次点击：灿 贝 崩",
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 1,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "legacy_detect",
+          "attempt": 1,
+          "chars": [
+            "灿",
+            "贝",
+            "崩"
+          ],
+          "n_target": 3,
+          "n_char": 3
+        },
+        {
+          "ev": "solved_2404",
+          "attempt": 1,
+          "n": 3
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 1,
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 715,
+          "mean": 6.19,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 706,
+          "mean": 5.82,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 1,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 707,
+          "mean": 5.83,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 1,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              674,
+              459
+            ],
+            [
+              676,
+              412
+            ],
+            [
+              626,
+              413
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 1,
+          "kind": "2404",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 1,
+          "kind": "2404"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 1,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 1,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 2,
+          "kind": "2404",
+          "title": "请依次点击：参 熬 灿",
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 2,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "legacy_detect",
+          "attempt": 2,
+          "chars": [
+            "参",
+            "熬",
+            "灿"
+          ],
+          "n_target": 3,
+          "n_char": 3
+        },
+        {
+          "ev": "solved_2404",
+          "attempt": 2,
+          "n": 3
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 2,
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 708,
+          "mean": 5.97,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 710,
+          "mean": 5.11,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 2,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 694,
+          "mean": 4.76,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 2,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              580,
+              509
+            ],
+            [
+              724,
+              512
+            ],
+            [
+              677,
+              460
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 2,
+          "kind": "2404",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 2,
+          "kind": "2404"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 2,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 2,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 3,
+          "kind": "2404",
+          "title": "请依次点击：播 卞 泵",
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 3,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "legacy_detect",
+          "attempt": 3,
+          "chars": [
+            "播",
+            "卞",
+            "泵"
+          ],
+          "n_target": 3,
+          "n_char": 3
+        },
+        {
+          "ev": "solved_2404",
+          "attempt": 3,
+          "n": 3
+        },
+        {
+          "ev": "box_refreshed",
+          "attempt": 3,
+          "box": {
+            "x": 555,
+            "y": 336.9,
+            "width": 330,
+            "height": 235.7
+          },
+          "n": 3
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 1,
+          "try_i": 1,
+          "n_big": 717,
+          "mean": 7.04,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 2,
+          "try_i": 1,
+          "n_big": 714,
+          "mean": 6.74,
+          "received": true
+        },
+        {
+          "ev": "click_check",
+          "attempt": 3,
+          "idx": 3,
+          "try_i": 1,
+          "n_big": 713,
+          "mean": 7.8,
+          "received": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 3,
+          "n": 3,
+          "received": 3,
+          "pts": [
+            [
+              725,
+              362
+            ],
+            [
+              727,
+              411
+            ],
+            [
+              578,
+              461
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_state",
+          "attempt": 3,
+          "kind": "2404",
+          "enabled": true
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 3,
+          "kind": "2404"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 3,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/sign-in"
+        },
+        {
+          "ev": "login_state",
+          "attempt": 3,
+          "url": "https://www.cun.ai/sign-in",
+          "has_pw": null,
+          "bad_hit": null,
+          "err": null,
+          "reason": "url_signin"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "attempts": 10,
+    "success": 3,
+    "success_rate": 0.3,
+    "captcha_passed_any": 3,
+    "captcha_pass_rate": 0.3,
+    "first_kind_counts": {
+      "2401": 2,
+      "2408": 6,
+      "2404": 2
+    },
+    "first_kind_success": {
+      "2408": 3
+    },
+    "ms_mean": 108563.8,
+    "finished": "2026-10-31T16:49:24+08:00"
+  }
+}

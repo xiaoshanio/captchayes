@@ -1,0 +1,125 @@
+{
+  "gap": {
+    "A": {
+      "n": 80,
+      "size_mean": [
+        672,
+        536
+      ],
+      "strip_h_mean": 56,
+      "box_w_med": 82.0,
+      "box_h_med": 78.0,
+      "box_area_med": 6400.0,
+      "n_cls0_mean": 5.33,
+      "n_cls2_mean": 3.39,
+      "edge_density": 0.0172,
+      "sat_mean": 81.1,
+      "val_mean": 198.1,
+      "prompt_h_med": 38
+    },
+    "B": {
+      "n": 80,
+      "size_mean": [
+        672,
+        548
+      ],
+      "strip_h_mean": 68,
+      "box_w_med": 60.0,
+      "box_h_med": 59.0,
+      "box_area_med": 3328.0,
+      "n_cls0_mean": 6.61,
+      "n_cls2_mean": 3.48,
+      "edge_density": 0.0118,
+      "sat_mean": 89.1,
+      "val_mean": 170.8,
+      "prompt_h_med": 46.0
+    },
+    "js_divergence": 0.074006,
+    "drift_dims": [
+      "图标尺寸 0.52x（变小）",
+      "提示条高度 56 -> 68",
+      "边缘密度 0.0172 -> 0.0118",
+      "背景灰度分布 (JS=0.0740)",
+      "底图图标数 5.33 -> 6.61"
+    ]
+  },
+  "rows": [
+    {
+      "tag": "A-on-A",
+      "n": 60,
+      "exact": 0,
+      "exact_rate": 0.0,
+      "err_rate": 0.0,
+      "class2_mismatch": 0.8167,
+      "ms_mean": 160.9,
+      "label": "旧模型@旧域"
+    },
+    {
+      "tag": "A-on-B",
+      "n": 60,
+      "exact": 0,
+      "exact_rate": 0.0,
+      "err_rate": 0.0333,
+      "class2_mismatch": 0.7833,
+      "ms_mean": 126.0,
+      "label": "旧模型@漂移域"
+    },
+    {
+      "tag": "A2-on-B",
+      "n": 60,
+      "exact": 0,
+      "exact_rate": 0.0,
+      "err_rate": 0.0,
+      "class2_mismatch": 0.7833,
+      "ms_mean": 121.0,
+      "label": "旧数据多训@漂移域"
+    },
+    {
+      "tag": "AB-on-B",
+      "n": 60,
+      "exact": 0,
+      "exact_rate": 0.0,
+      "err_rate": 0.0,
+      "class2_mismatch": 0.8,
+      "ms_mean": 153.3,
+      "label": "混合训练@漂移域"
+    },
+    {
+      "tag": "B-on-B",
+      "n": 60,
+      "exact": 0,
+      "exact_rate": 0.0,
+      "err_rate": 0.0667,
+      "class2_mismatch": 0.7,
+      "ms_mean": 167.7,
+      "label": "重训@漂移域"
+    },
+    {
+      "tag": "B-on-A",
+      "n": 60,
+      "exact": 0,
+      "exact_rate": 0.0,
+      "err_rate": 0.0167,
+      "class2_mismatch": 0.8167,
+      "ms_mean": 124.4,
+      "label": "重训@旧域（遗忘检查）"
+    }
+  ],
+  "verdict": {
+    "drift_cost_pt": 0.0,
+    "retrain_gain_pt": 0.0,
+    "more_epochs_gain_pt": 0.0,
+    "mix_vs_retrain_pt": 0.0,
+    "forgetting_pt": 0.0
+  },
+  "config": {
+    "n_train": 300,
+    "n_val": 80,
+    "epochs": 6,
+    "mat_epochs": 5,
+    "limit": 60,
+    "conf": 0.2,
+    "smoke": false
+  },
+  "elapsed_min": 103.9
+}

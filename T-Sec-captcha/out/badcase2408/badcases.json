@@ -1,0 +1,226 @@
+[
+  {
+    "sid": "t2408_1810856204195397632",
+    "prompt": 1,
+    "score_correct": 0.1434,
+    "score_top": 0.9596,
+    "top_is_correct": false,
+    "prompt_wh": [
+      24,
+      36
+    ],
+    "gt_box": [
+      96,
+      264,
+      117,
+      288
+    ],
+    "det_box": [
+      95,
+      261,
+      117,
+      288
+    ],
+    "det_wh": [
+      22,
+      27
+    ],
+    "det_conf": null
+  },
+  {
+    "sid": "t2408_1810856471406067712",
+    "prompt": 0,
+    "score_correct": 0.0226,
+    "score_top": 0.9901,
+    "top_is_correct": false,
+    "prompt_wh": [
+      40,
+      48
+    ],
+    "gt_box": [
+      324,
+      405,
+      398,
+      480
+    ],
+    "det_box": [
+      324,
+      404,
+      395,
+      476
+    ],
+    "det_wh": [
+      71,
+      72
+    ],
+    "det_conf": null
+  },
+  {
+    "sid": "t2408_1810856499843436544",
+    "prompt": 1,
+    "score_correct": 0.0292,
+    "score_top": 0.9811,
+    "top_is_correct": false,
+    "prompt_wh": [
+      24,
+      36
+    ],
+    "gt_box": [
+      88,
+      405,
+      154,
+      474
+    ],
+    "det_box": [
+      86,
+      406,
+      152,
+      472
+    ],
+    "det_wh": [
+      66,
+      66
+    ],
+    "det_conf": null
+  },
+  {
+    "sid": "t2408_1810856575894552576",
+    "prompt": 0,
+    "score_correct": 0.0891,
+    "score_top": 0.1413,
+    "top_is_correct": false,
+    "prompt_wh": [
+      24,
+      36
+    ],
+    "gt_box": [
+      508,
+      405,
+      536,
+      425
+    ],
+    "det_box": [
+      508,
+      401,
+      533,
+      432
+    ],
+    "det_wh": [
+      25,
+      31
+    ],
+    "det_conf": null
+  },
+  {
+    "sid": "t2408_1810856575894552576",
+    "prompt": 1,
+    "score_correct": 0.133,
+    "score_top": 0.8032,
+    "top_is_correct": false,
+    "prompt_wh": [
+      44,
+      44
+    ],
+    "gt_box": [
+      269,
+      131,
+      299,
+      162
+    ],
+    "det_box": [
+      267,
+      129,
+      303,
+      163
+    ],
+    "det_wh": [
+      36,
+      34
+    ],
+    "det_conf": null
+  },
+  {
+    "sid": "t2408_1810856639346057216",
+    "prompt": 0,
+    "score_correct": 0.0628,
+    "score_top": 0.9905,
+    "top_is_correct": false,
+    "prompt_wh": [
+      44,
+      44
+    ],
+    "gt_box": [
+      92,
+      103,
+      120,
+      134
+    ],
+    "det_box": [
+      89,
+      101,
+      125,
+      135
+    ],
+    "det_wh": [
+      36,
+      34
+    ],
+    "det_conf": null
+  },
+  {
+    "sid": "t2408_1810856795860631552",
+    "prompt": 0,
+    "score_correct": 0.0459,
+    "score_top": 0.9622,
+    "top_is_correct": false,
+    "prompt_wh": [
+      40,
+      48
+    ],
+    "gt_box": [
+      209,
+      89,
+      238,
+      120
+    ],
+    "det_box": [
+      207,
+      86,
+      243,
+      121
+    ],
+    "det_wh": [
+      36,
+      35
+    ],
+    "det_conf": null
+  },
+  {
+    "sid": "t2408_1810856795860631552",
+    "prompt": 1,
+    "score_correct": 0.126,
+    "score_top": 0.126,
+    "top_is_correct": true,
+    "prompt_wh": [
+      26,
+      36
+    ],
+    "gt_box": [
+      448,
+      363,
+      477,
+      383
+    ],
+    "det_box": [
+      449,
+      360,
+      473,
+      389
+    ],
+    "det_wh": [
+      24,
+      29
+    ],
+    "det_conf": null
+  }
+]

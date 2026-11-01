@@ -1,0 +1,50 @@
+[
+  {
+    "labeled": "data/labeled2408",
+    "questions": 300,
+    "pairs": 884,
+    "consistent": 771,
+    "consistency": 0.8722,
+    "mean": 0.8395,
+    "p10": 0.0362,
+    "p50": 0.9724,
+    "low_ratio": 0.1278,
+    "bimodal_gap": 0.063
+  },
+  {
+    "labeled": "data/labeled_det",
+    "questions": 300,
+    "pairs": 900,
+    "consistent": 892,
+    "consistency": 0.9911,
+    "mean": 0.9594,
+    "p10": 0.927,
+    "p50": 0.98,
+    "low_ratio": 0.0089,
+    "bimodal_gap": 0.0252
+  },
+  {
+    "labeled": "data/labeled_det_full",
+    "questions": 300,
+    "pairs": 900,
+    "consistent": 887,
+    "consistency": 0.9856,
+    "mean": 0.9529,
+    "p10": 0.9155,
+    "p50": 0.9797,
+    "low_ratio": 0.0144,
+    "bimodal_gap": 0.0256
+  },
+  {
+    "labeled": "data/labeled_det2",
+    "questions": 300,
+    "pairs": 900,
+    "consistent": 898,
+    "consistency": 0.9978,
+    "mean": 0.9654,
+    "p10": 0.9229,
+    "p50": 0.9812,
+    "low_ratio": 0.0022,
+    "bimodal_gap": 0.0249
+  }
+]

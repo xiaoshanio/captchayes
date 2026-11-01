@@ -1,0 +1,90 @@
+[
+  {
+    "n": 40,
+    "exact": 34,
+    "exact_rate": 0.85,
+    "err_rate": 0.0,
+    "class2_mismatch": 0.025,
+    "dup_pairs": 1,
+    "model": "旧模型",
+    "domain": "旧域A",
+    "dedup": false
+  },
+  {
+    "n": 40,
+    "exact": 35,
+    "exact_rate": 0.875,
+    "err_rate": 0.0,
+    "class2_mismatch": 0.0,
+    "dup_pairs": 1,
+    "model": "旧模型",
+    "domain": "旧域A",
+    "dedup": true
+  },
+  {
+    "n": 40,
+    "exact": 3,
+    "exact_rate": 0.075,
+    "err_rate": 0.0,
+    "class2_mismatch": 0.75,
+    "dup_pairs": 48,
+    "model": "旧模型",
+    "domain": "漂移域B",
+    "dedup": false
+  },
+  {
+    "n": 40,
+    "exact": 6,
+    "exact_rate": 0.15,
+    "err_rate": 0.0,
+    "class2_mismatch": 0.4,
+    "dup_pairs": 48,
+    "model": "旧模型",
+    "domain": "漂移域B",
+    "dedup": true
+  },
+  {
+    "n": 40,
+    "exact": 1,
+    "exact_rate": 0.025,
+    "err_rate": 0.0,
+    "class2_mismatch": 0.5,
+    "dup_pairs": 15,
+    "model": "新模型",
+    "domain": "旧域A",
+    "dedup": false
+  },
+  {
+    "n": 40,
+    "exact": 1,
+    "exact_rate": 0.025,
+    "err_rate": 0.0,
+    "class2_mismatch": 0.3,
+    "dup_pairs": 15,
+    "model": "新模型",
+    "domain": "旧域A",
+    "dedup": true
+  },
+  {
+    "n": 40,
+    "exact": 2,
+    "exact_rate": 0.05,
+    "err_rate": 0.0,
+    "class2_mismatch": 0.75,
+    "dup_pairs": 62,
+    "model": "新模型",
+    "domain": "漂移域B",
+    "dedup": false
+  },
+  {
+    "n": 40,
+    "exact": 6,
+    "exact_rate": 0.15,
+    "err_rate": 0.0,
+    "class2_mismatch": 0.125,
+    "dup_pairs": 62,
+    "model": "新模型",
+    "domain": "漂移域B",
+    "dedup": true
+  }
+]

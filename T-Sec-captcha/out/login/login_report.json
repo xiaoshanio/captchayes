@@ -1,0 +1,55 @@
+{
+  "url": "https://www.cun.ai/sign-in",
+  "username": "lindabaker57252",
+  "started": "2026-10-25T23:34:05+08:00",
+  "steps": [
+    {
+      "step": "load_model",
+      "t": "2026-10-25T23:34:07+08:00",
+      "ms": 1619.8,
+      "det": "best_v3.onnx",
+      "pre": "pre_model_v7.onnx",
+      "legacy_ready": true
+    },
+    {
+      "step": "form",
+      "t": "2026-10-25T23:34:32+08:00",
+      "filled": [
+        "username",
+        "password"
+      ],
+      "agreed": true
+    },
+    {
+      "step": "click_login",
+      "t": "2026-10-25T23:34:36+08:00",
+      "popup": true
+    },
+    {
+      "step": "captcha_ready",
+      "t": "2026-10-25T23:34:36+08:00",
+      "attempt": 1,
+      "title": "请依次点击：苍 倡 乘",
+      "kind": "2404-text",
+      "bg_wh": [
+        330,
+        237
+      ],
+      "box": {
+        "x": 555,
+        "y": 336.9,
+        "width": 330,
+        "height": 235.7
+      }
+    },
+    {
+      "step": "legacy_no_boxes",
+      "t": "2026-10-25T23:34:37+08:00",
+      "attempt": 1,
+      "n_target": 3,
+      "n_char": 0
+    }
+  ],
+  "error": "Error: Page.reload: net::ERR_CONNECTION_CLOSED\nCall log:\n  - waiting for navigation until \"domcontentloaded\"\n",
+  "finished": "2026-10-25T23:34:49+08:00"
+}

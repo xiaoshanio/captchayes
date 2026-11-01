@@ -1,0 +1,9 @@
+{
+  "tag": "new_on_A",
+  "n": 60,
+  "exact": 2,
+  "exact_rate": 0.0333,
+  "err_rate": 0.0,
+  "class2_mismatch": 0.5833,
+  "ms_mean": 146.8
+}

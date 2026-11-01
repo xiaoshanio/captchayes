@@ -1,0 +1,1203 @@
+{
+  "samples": "D:\\Github\\captchayes\\T-Sec-captcha\\data/samples",
+  "new_model": "D:\\Github\\captchayes\\T-Sec-captcha\\runs/export_v4",
+  "limit": 150,
+  "conf": 0.25,
+  "dedup": 0.5,
+  "started": "2026-10-24T17:17:19+08:00",
+  "new": {
+    "n": 150,
+    "n_scored": 140,
+    "exact": 140,
+    "exact_rate": 0.9333,
+    "point_hit": 1.0,
+    "count_match": 140,
+    "err": 0,
+    "err_rate": 0.0,
+    "ms_mean": 161.6,
+    "ms_p95": 263.9,
+    "detail": [
+      {
+        "sid": "t2408_1810855464185901056",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810855608033804288",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810855642410254336",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810855669287354368",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810855705308106752",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856204195397632",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856288349868032",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856303264833536",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856338949935104",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856356968669184",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856414330015744",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856444294098944",
+        "ok": true,
+        "n_pred": 3,
+        "note": "无真值，仅统计"
+      },
+      {
+        "sid": "t2408_1810856459242618880",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856471406067712",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856499843436544",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856551148179456",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856562003034112",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856575894552576",
+        "ok": true,
+        "n_pred": 3,
+        "note": "无真值，仅统计"
+      },
+      {
+        "sid": "t2408_1810856608828297216",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856639346057216",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856738952331264",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856795860631552",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856807369863168",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856834515365888",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810856863556702208",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857002220388352",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857120046788608",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857132831039488",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857145061670912",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857160463138816",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857192557961216",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857207305093120",
+        "ok": true,
+        "n_pred": 3,
+        "note": "无真值，仅统计"
+      },
+      {
+        "sid": "t2408_1810857272652410880",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857286409715712",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857318353469440",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857333402689536",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857477435068416",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857490689081344",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857554979377152",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857642992611328",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857693961809920",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857743421030400",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857771120267264",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857797963792384",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857846265393152",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857906764029952",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810857922048053248",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858018215063552",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858042743402496",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858060393025536",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858103460098048",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858161593180160",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858297773821952",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858326446047232",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858341109383168",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858373606854656",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858409862418432",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858494386012160",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858539130830848",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858621020463104",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858726666547200",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858740323258368",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858812834381824",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810858926147678208",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859004228816896",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859063133675520",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859170373619712",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859183761838080",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859235955703808",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859337592094720",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859377974857728",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859471692402688",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859569755242496",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859641125519360",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859749439193088",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859781836001280",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859826245320704",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859859531304960",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859899997986816",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859944625324032",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810859961788428288",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810860031816531968",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810860045422891008",
+        "ok": true,
+        "n_pred": 3,
+        "note": "无真值，仅统计"
+      },
+      {
+        "sid": "t2408_1810860191619497984",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810860223798218752",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810860240340594688",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810860271781031936",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810860326374096896",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810860343352668160",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810860391033536512",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810860427138060288",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810860516946522112",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810860581421355008",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810860630377312257",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810860661633196032",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810860702317977600",
+        "ok": true,
+        "n_pred": 3,
+        "note": "无真值，仅统计"
+      },
+      {
+        "sid": "t2408_1810860743539560448",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810860869804920832",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810860904600846336",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810861037308637184",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810861101129207808",
+        "ok": true,
+        "n_pred": 3,
+        "note": "无真值，仅统计"
+      },
+      {
+        "sid": "t2408_1810861140807254016",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810861153239195648",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810861266149892096",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810861448786620416",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810861478465548288",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810861518445674496",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810861553409327104",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810861705008328704",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810861766144491520",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810861784985251840",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810861845769093120",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810861923464400896",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862020822605824",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862042196799488",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862056004415488",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862088199933952",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862273906925568",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862285382516736",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862317326348288",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862372221382656",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862424364998656",
+        "ok": true,
+        "n_pred": 3,
+        "note": "无真值，仅统计"
+      },
+      {
+        "sid": "t2408_1810862439967789056",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862455268581376",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862502446104576",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862519709892608",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862564337254400",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862670000209920",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862794403225600",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862810089955328",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810862870924161024",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810863000360398848",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810863031163355136",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810863156740812800",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810863349661966336",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810863410227736576",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810863465508642816",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810863527064252416",
+        "ok": true,
+        "n_pred": 3,
+        "note": "无真值，仅统计"
+      },
+      {
+        "sid": "t2408_1810863579694391296",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810863602377187328",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810863715757645824",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810863739245711360",
+        "ok": true,
+        "n_pred": 3,
+        "note": "无真值，仅统计"
+      },
+      {
+        "sid": "t2408_1810863831805599744",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810863943978078208",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810864021505646592",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810864172601196544",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810864213671878656",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810864245649190912",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810864259423326208",
+        "ok": true,
+        "n_pred": 3,
+        "n_gt": 3,
+        "hit": 3,
+        "exact": true
+      },
+      {
+        "sid": "t2408_1810864333075283968",
+        "ok": true,
+        "n_pred": 3,
+        "note": "无真值，仅统计"
+      }
+    ]
+  },
+  "finished": "2026-10-24T17:17:46+08:00"
+}

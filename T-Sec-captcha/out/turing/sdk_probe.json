@@ -1,0 +1,21 @@
+{
+  "sdk": "function",
+  "rounds": [
+    {
+      "i": 0,
+      "result": {
+        "timeout": true
+      },
+      "iframes": [],
+      "tcaptcha": false
+    },
+    {
+      "i": 1,
+      "result": {
+        "timeout": true
+      },
+      "iframes": [],
+      "tcaptcha": false
+    }
+  ]
+}

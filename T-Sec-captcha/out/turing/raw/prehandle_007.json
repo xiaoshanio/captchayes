@@ -1,0 +1,45 @@
+{
+  "state": 1,
+  "ticket": "",
+  "capclass": "1",
+  "subcapclass": "2404",
+  "src_1": "cap_union_new_show",
+  "src_2": "template/new_placeholder.html",
+  "src_3": "template/new_slide_placeholder.html",
+  "sess": "s0-khCPO_aqtsaAM-ZPpS-cDpBY_BOjx1FGAf2EdkAwCjEmml65HQpT5Z3YQzn4Qr3DdT7QY6mkWepHwAfsMR45bQd3lvKLVdmF2mM336oDIQEMTeoZ4dFOulEp5Tmio-2ju9uHUAOz60sKQP_I214nrWd6KXPWxsh5bDONeXHmS2plW4lJjF-sbf-SI41IlVztf4HAoNPQiTPB3N74V5Ff0kQ7h3cR4z_L_yOMN8w71KhrGFoy6DV3pnVxpcm1Bm9O87CAFMgWX64RfKJYyWt8gDJwxcATKUvEjwgirfNnfAU5SnKE6mfTwVwJtRd4SSzRhHgsf1k7PmqwxIM1cAC0fSdAd7J0X7u_1zEjw0wC8389WpF3mHS1essUwLZqlFeU9gML9dg2JvLW3GIlr6PXVQBXcEFAG57enaJYqqICky6ebZ9fU3M-zvt0jEKvEXeb0B4o6FG0-nxvD2Xd-SO0QRnXSWGACvO",
+  "randstr": "",
+  "sid": "1810829807628328960",
+  "log_js": "",
+  "data": {
+    "comm_captcha_cfg": {
+      "tdc_path": "/tdc.js?app_data=1810829807628328960&t=382691092",
+      "feedback_url": "https://support.qq.com/embed/app/304458?data=37d2a6799d331e49665b884c367e86b246439076e61779024a71e7ed73ebf849bdb32681adea9c7de0eb40adf9ad909e60694ede1c62c61b748a47f31a4f971777a031826cff646cc64747b2f7da5736035b40389b55da9ea73125a85de9146f036cd5cd846394f8d54069adcbb19ec47fd5bafe0b5bc94a7fcb06bec5b9bbefd7fa30201599ce6f127d302f4c149c99b7f3fbde917ca255bb446da6a864308c5ae77da27a516a781cba6ae7b660bf786b3c3394efba7129",
+      "pow_cfg": {
+        "prefix": "8221c80a672341e9#",
+        "md5": "7a2ea6a23e9dac9ba532c96ea26de32d"
+      }
+    },
+    "dyn_show_info": {
+      "lang": "zh-cn",
+      "instruction": "请依次点击：泵 驳 长 ",
+      "bg_elem_cfg": {
+        "size_2d": [
+          672,
+          480
+        ],
+        "click_cfg": {
+          "mark_style": "inc_number",
+          "data_type": [
+            "DynAnswerType_POS"
+          ]
+        },
+        "img_url": "/cap_union_new_getcapbysig?img_index=1&image=026409000006a72900000015df0b66142773&sess=s0VFPY_Z7wwXh4VIWRGkWQlmHwqbyxd5qrmd73e17VID1PFwG4FmX-kXbsPpyn1Owy5UzaZAW5tuIycgZO3tCC_pUuKNwFe0z6CLZ1QWKITIYj6cVasBohDdSC0vr1VUkL9DPpOFwnq-_lcvviMn_M-7G7DiTBUZ07WyHakK7nLYjyTEtcdgoO0LkV3GtifmPJFCF7yD1vdcYUgJE-dRLtuiygBh1cYUChLNrJTCV5dnjzimgwJF24xA8waTli2_8g6JQhRPHKDQHMxC2l1cg87jz6DRcIyNQ6EA19gnuIVJ4Ma5aRIjKr15bKwl9xz1FsGTYJexD3lvT2Jge3BRneQQJCGgrcQUKIoiSSpBgncwrkAl-GKuS-NXlVj9iocrg05NzNN_oTiYo77fXwIu5GP86pg8qEhv8bBnZe4CXr4G0vdgJJnAtwjhJLXBh80tLFtpX4ce2KjoIsJuUOhgghclE26BYUfsqF"
+      },
+      "verify_trigger_cfg": {
+        "verify_icon": true
+      },
+      "color_scheme": "#0057d4"
+    }
+  },
+  "uip": "39.172.235.251"
+}

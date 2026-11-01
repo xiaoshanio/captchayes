@@ -1,0 +1,120 @@
+{
+  "state": 1,
+  "ticket": "",
+  "capclass": "1",
+  "subcapclass": "2401",
+  "src_1": "cap_union_new_show",
+  "src_2": "template/new_placeholder.html",
+  "src_3": "template/new_slide_placeholder.html",
+  "sess": "s03786DxM56YTCa2K632Z_qIyThhSK_Z2v-0EGh9q9hx0pB06f26OZ3f-ZfCjhzlzXtzuT3cfscLnQbBWW98QSay4J5YuAp9vBu__On2blLpzp4jojwjgSbOJGd1EMQ5kvieXUBw7v5r5JRphrmNtbzW9KDOJWq8xJweaKmzFDUyyf-X0iBoS2d4g0p60WvLSgRJArOR_vUHvsPji6Np9_muci5xZron6peCOmFbBeZsLKVuzBuFheM1LcUTy0StZoGGH38pDR0NZluRYEHEkRqTLgjmXDt3qMtwbItAdXyqNwh_L0lECPCDYguf2XeNT63sFwmjmeU9jKH193OEhrGdZ_tnLc_3IbQvRowz08raFfakw45ZjQiZra5_hbbyrpWVR7Dgz2j5T0ck5BkK4TBhkTzSID5pC5",
+  "randstr": "",
+  "sid": "1810829850477334528",
+  "log_js": "",
+  "data": {
+    "comm_captcha_cfg": {
+      "tdc_path": "/tdc.js?app_data=1810829850477334528&t=826735585",
+      "feedback_url": "https://support.qq.com/embed/app/304458?data=37d2a6799d331e49665b884c367e86b246439076e61779024a71e7ed73ebf849bdb32681adea9c7de0eb40adf9ad909e60694ede1c62c61b748a47f31a4f971777a031826cff646cc64747b2f7da5736035b40389b55da9ea73125a85de9146f036cd5cd846394f8d54069adcbb19ec47fd5bafe0b5bc94a7fcb06bec5b9bbefd7fa30201599ce6f127d302f4c149c99b7f3fbde917ca255bb446da6a864308c5ae77da27a516a781cba6ae7b660bf786b3c3394efba7129",
+      "pow_cfg": {
+        "prefix": "781b16d41484d8b8#",
+        "md5": "7dc28ea006105a5ab41d1546fa915168"
+      }
+    },
+    "dyn_show_info": {
+      "lang": "zh-cn",
+      "instruction": "拖动下方滑块完成拼图",
+      "bg_elem_cfg": {
+        "sprite_pos": [
+          0,
+          0
+        ],
+        "size_2d": [
+          672,
+          480
+        ],
+        "img_url": "/cap_union_new_getcapbysig?img_index=1&image=026109000000003600000015a2b0881427e0&sess=s0o09IoyunfcYGc78Vq5olAktJhRx2ehFAEndRK1fq91e4wVMODuUkyU2e8uKaE2ULE7yCSJUSXgFPMqw88G9tzgTIq8WHYPxLOq4iVH9fJcXpfpMF0Rc9H5SoM5pypahDvX-gmm3LzWHYMBTHXn7ZHxdUnHMzG49-YOv2NU97kT-pmX_wxR2aLsBDeUrS-lryuT8GpeskhJ-2cnjB7jqBmHZ9OvwuVpxanCCi7_yQnZdbkEQMc_0pViRRjz_nndJ479wYWnFJkzBLdYAjGu5WDQCJa28AQq2cKYgSX93rr28a_u0wbiRTvuzUQri8AAZ5BVyXBqKWo4Pe7pkF5DaNPhzPe1uteP72OMpRgLodgNTiNbYCBEAqZJ7g6egiAwe_rxuA4XJSahnZfGpo7SndXtkTfLq-JYTf"
+      },
+      "fg_elem_list": [
+        {
+          "id": 3,
+          "sprite_pos": [
+            0,
+            422
+          ],
+          "size_2d": [
+            672,
+            32
+          ],
+          "init_pos": [
+            0,
+            422
+          ]
+        },
+        {
+          "id": 1,
+          "sprite_pos": [
+            140,
+            490
+          ],
+          "size_2d": [
+            120,
+            120
+          ],
+          "init_pos": [
+            50,
+            215
+          ],
+          "move_cfg": {
+            "track_limit": "x>=50&&x<=552",
+            "move_factor": [
+              1,
+              0
+            ],
+            "data_type": [
+              "DynAnswerType_POS"
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "sprite_pos": [
+            0,
+            490
+          ],
+          "size_2d": [
+            130,
+            70
+          ],
+          "init_pos": [
+            45,
+            402
+          ],
+          "move_cfg": {
+            "track_limit": "x>=50&&x<=552",
+            "move_factor": [
+              1,
+              0
+            ]
+          },
+          "type": "slider"
+        }
+      ],
+      "fg_binding_list": [
+        {
+          "master": 1,
+          "slave": 2,
+          "bind_type": "DynBindType_DX_DX",
+          "bind_factor": 1
+        },
+        {
+          "master": 2,
+          "slave": 1,
+          "bind_type": "DynBindType_DX_DX",
+          "bind_factor": 1
+        }
+      ],
+      "sprite_url": "/cap_union_new_getcapbysig?img_index=0&image=026109000000003600000015a2b0881427e0&sess=s0o09IoyunfcYGc78Vq5olAktJhRx2ehFAEndRK1fq91e4wVMODuUkyU2e8uKaE2ULE7yCSJUSXgFPMqw88G9tzgTIq8WHYPxLOq4iVH9fJcXpfpMF0Rc9H5SoM5pypahDvX-gmm3LzWHYMBTHXn7ZHxdUnHMzG49-YOv2NU97kT-pmX_wxR2aLsBDeUrS-lryuT8GpeskhJ-2cnjB7jqBmHZ9OvwuVpxanCCi7_yQnZdbkEQMc_0pViRRjz_nndJ479wYWnFJkzBLdYAjGu5WDQCJa28AQq2cKYgSX93rr28a_u0wbiRTvuzUQri8AAZ5BVyXBqKWo4Pe7pkF5DaNPhzPe1uteP72OMpRgLodgNTiNbYCBEAqZJ7g6egiAwe_rxuA4XJSahnZfGpo7SndXtkTfLq-JYTf",
+      "color_scheme": "#0057d4"
+    }
+  },
+  "uip": "39.172.235.251"
+}

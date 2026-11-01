@@ -1,0 +1,12 @@
+{
+  "url": "https://cun.ai/sign-up",
+  "aid": "195317439",
+  "captcha_host": "turing.captcha.qcloud.com",
+  "n_prehandle": 0,
+  "n_net_events": 0,
+  "subcapclass_hist": {},
+  "clickable_subcapclass": [],
+  "is_click_captcha": false,
+  "rounds": [],
+  "endpoints": {}
+}

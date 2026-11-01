@@ -1,0 +1,59 @@
+{
+  "state": 1,
+  "ticket": "",
+  "capclass": "1",
+  "subcapclass": "2408",
+  "src_1": "cap_union_new_show",
+  "src_2": "template/new_placeholder.html",
+  "src_3": "template/new_slide_placeholder.html",
+  "sess": "s0r9FQz-nMwfqW4ZeuPOnEZhW0Z1Gc6q98PYs-9tin1P6XMC6upGSypZJQd8jABL97A04TpXh1AC6_8kzH37M7srUOrwOzy4SfinBFQ5CWdZcUkGcVEb6b1bvp-GNwiEgloaSiBZW4kHF63a9fkJ7eFDrRUiFGTcF4DaYZBLTbyLo-ySzS3HrXoK_gdKUsFEWo_WAmSgRxsE9fVTP27UVUw7rscHjNBliF-FGmbco7NpB7ryFMU7-GjWnbCyaAuNFOmWZF4BosQx8b3cTkZNRuJTS6IabX84gdnul5lqSr_qZRiRCg_3k8-2U20UIGW359YFUtFXtyyXkmkv1c_QL8Vn-0zI75tq_AM4oycIA1D1wa7LcUjLvLCid4xC3lzcrVPwjn0YAqX1LsRugC5l8tItSDmJH036-uwsc3cw5LdJ7w43fuAr_wa9U7NmddgaMqaOuZ5K9NLyQ0l3ERjc4Zj3XYh7nFeu-7",
+  "randstr": "",
+  "sid": "1810834910636683264",
+  "log_js": "",
+  "data": {
+    "comm_captcha_cfg": {
+      "tdc_path": "/tdc.js?app_data=1810834910636683264&t=1679006953",
+      "feedback_url": "https://support.qq.com/embed/app/304458?data=37d2a6799d331e49665b884c367e86b246439076e61779024a71e7ed73ebf849bdb32681adea9c7de0eb40adf9ad909e60694ede1c62c61b748a47f31a4f971777a031826cff646cc64747b2f7da5736035b40389b55da9ea73125a85de9146f036cd5cd846394f8d54069adcbb19ec47fd5bafe0b5bc94a7fcb06bec5b9bbefd7fa30201599ce6f127d302f4c149c99b7f3fbde917ca255bb446da6a864308c5ae77da27a516a781cba6ae7b660bf786b3c3394efba7129",
+      "pow_cfg": {
+        "prefix": "1ece0e59d8e89543#",
+        "md5": "a151183029576883d239abc66b19f449"
+      }
+    },
+    "dyn_show_info": {
+      "lang": "zh-cn",
+      "instruction": "请依次点击：",
+      "bg_elem_cfg": {
+        "size_2d": [
+          672,
+          480
+        ],
+        "click_cfg": {
+          "mark_style": "inc_number",
+          "data_type": [
+            "DynAnswerType_POS"
+          ]
+        },
+        "img_url": "/cap_union_new_getcapbysig?img_index=1&image=02680900002a593a00000015a292b614278a&sess=s01vz3ynz2h6fCc3AIxPJRFG0EX0k-f15zH84MhWKEwG4LMPOt6SCGhL_I81KgOF9Nqda5T_wF3n9NG1D_BbQNHFAQvgEdPm-JAtKO6LlXMTOvnpFmoDq7kkx_1cUtAjgI_tl33W9Pi3rLRTKhDYk0NLQvch_QXFgMKDL7YLjrdgd27QBiEcyC8RMvckRVXJX_aJXEWWdP66l4gT1beWbHOSs6jhBML3oxeMh0NGTYQuYw1EK6iy7bHc58WesvS6Y4NBI5g6zw9w_n0QHI37jLs9DmCF_X9_g4s0Er8SQ6XaR_BSIBMo5mF8i_l79binqwMmlvLqtMqrcBWkR0ayOFC2kaLoLVgWad-T20S36b7r7fV_IOOuMdt7IOzZdxQLfYrGsiR6MBYXbj9beHem-BZocN9L1Ebpoziz8kZeLBQyzhl-SBfvbq93nTUIcZx6kZ5O1duRxbJ2RS7Yz91WcmddqtiBu6QMV5"
+      },
+      "sprite_url": "/cap_union_new_getcapbysig?img_index=0&image=02680900002a593a00000015a292b614278a&sess=s01vz3ynz2h6fCc3AIxPJRFG0EX0k-f15zH84MhWKEwG4LMPOt6SCGhL_I81KgOF9Nqda5T_wF3n9NG1D_BbQNHFAQvgEdPm-JAtKO6LlXMTOvnpFmoDq7kkx_1cUtAjgI_tl33W9Pi3rLRTKhDYk0NLQvch_QXFgMKDL7YLjrdgd27QBiEcyC8RMvckRVXJX_aJXEWWdP66l4gT1beWbHOSs6jhBML3oxeMh0NGTYQuYw1EK6iy7bHc58WesvS6Y4NBI5g6zw9w_n0QHI37jLs9DmCF_X9_g4s0Er8SQ6XaR_BSIBMo5mF8i_l79binqwMmlvLqtMqrcBWkR0ayOFC2kaLoLVgWad-T20S36b7r7fV_IOOuMdt7IOzZdxQLfYrGsiR6MBYXbj9beHem-BZocN9L1Ebpoziz8kZeLBQyzhl-SBfvbq93nTUIcZx6kZ5O1duRxbJ2RS7Yz91WcmddqtiBu6QMV5",
+      "verify_trigger_cfg": {
+        "verify_icon": true
+      },
+      "color_scheme": "#0057d4",
+      "ins_elem_cfg": [
+        {
+          "id": 1,
+          "sprite_pos": [
+            0,
+            0
+          ],
+          "size_2d": [
+            170,
+            50
+          ]
+        }
+      ]
+    }
+  },
+  "uip": "39.172.235.251"
+}

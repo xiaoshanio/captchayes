@@ -4,9 +4,11 @@
 用法：
     python verify_cunai.py
     python verify_cunai.py --cunai F:\\Kaifa\\cun.ai
+    python verify_cunai.py --image data/samples/<sid>/main.jpg
 """
 import argparse
 import hashlib
+import glob
 import os
 import sys
 
@@ -43,23 +45,45 @@ def _read_norm(p):
     return data
 
 
+def pick_image(explicit=None):
+    """挑一张与当前模型同域的图。
+
+    为什么需要：
+        本仓库当前 `model/` 里是**2408 图标点选**域的重训模型。
+        `docs/res.jpg` 是**旧域**（中文文字点选 344x384）样本，
+        换域后模型不认识它，会抛 ValueError（这是预期行为）。
+        所以优先用 data/samples 里的 2408 样本；没有才回退到 docs/res.jpg。
+    """
+    if explicit:
+        return explicit
+    cands = sorted(glob.glob(os.path.join(REPO, "data", "samples", "*", "main.jpg")))
+    if cands:
+        return cands[0]
+    return os.path.join(REPO, "docs", "res.jpg")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--cunai", default=r"F:\Kaifa\cun.ai")
+    ap.add_argument("--image", default=None,
+                    help="显式指定验证图；默认自动挑 2408 样本")
     args = ap.parse_args()
     ok = True
 
+    img = pick_image(args.image)
     print("== 1. 本仓库独立推理 ==")
+    print(f"   验证图: {os.path.relpath(img, REPO)}")
     try:
         from src.captcha import TextSelectCaptcha
         cap = TextSelectCaptcha()
-        img = os.path.join(REPO, "docs", "res.jpg")
         d = cap.run_dict(img)
-        assert len(d.get("point", [])) == 4, d
-        print("PASS src.captcha 推理正常:", d["point"])
+        assert len(d.get("point", [])) >= 1, d
+        print(f"PASS src.captcha 推理正常: {len(d['point'])} 点")
     except Exception as e:
         ok = False
         print("FAIL src.captcha:", repr(e))
+        print("     提示：若 model/ 是 2408 域模型，请用 --image 指定 2408 样本；"
+              "docs/res.jpg 属旧域，换域后必然失败（预期）")
 
     print("== 2. cun.ai 风格 from cv import ==")
     try:

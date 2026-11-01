@@ -1,0 +1,9 @@
+{
+  "tag": "A-on-A 旧模型@旧域",
+  "n": 60,
+  "exact": 0,
+  "exact_rate": 0.0,
+  "err_rate": 0.0,
+  "class2_mismatch": 0.8167,
+  "ms_mean": 174.2
+}

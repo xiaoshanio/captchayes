@@ -1,0 +1,9 @@
+{
+  "tag": "A-on-B 旧模型@漂移域",
+  "n": 60,
+  "exact": 0,
+  "exact_rate": 0.0,
+  "err_rate": 0.0333,
+  "class2_mismatch": 0.7833,
+  "ms_mean": 147.1
+}

@@ -1,0 +1,7 @@
+path: D:/Github/captchayes/T-Sec-captcha/out/label_test
+train: images/train
+val: images/val
+names:
+  0: label
+  1: title
+  2: char

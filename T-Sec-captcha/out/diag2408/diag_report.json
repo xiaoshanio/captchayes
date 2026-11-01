@@ -1,0 +1,41 @@
+{
+  "det": "runs/export_v3/best_v3_v3.onnx",
+  "pre": "runs/export_v4/pre_model_v7_v4.onnx",
+  "limit": 80,
+  "conf": 0.25,
+  "dedup": 0.5,
+  "norm_short": 64,
+  "Q1_detector": {
+    "gt_boxes": 240,
+    "recall_iou50": 1.0,
+    "iou_mean": 0.9975,
+    "iou_p10": 1.0,
+    "iou_p50": 1.0,
+    "dup_pairs": 0,
+    "extra_boxes": 218,
+    "det_per_img": 5.72
+  },
+  "Q2_Q3_ablation": {
+    "A": {
+      "n": 80,
+      "exact_rate": 1.0,
+      "point_hit": 1.0
+    },
+    "B": {
+      "n": 80,
+      "exact_rate": 1.0,
+      "point_hit": 1.0
+    },
+    "C": {
+      "n": 80,
+      "exact_rate": 1.0,
+      "point_hit": 1.0
+    },
+    "D": {
+      "n": 80,
+      "exact_rate": 1.0,
+      "point_hit": 1.0
+    }
+  },
+  "elapsed_s": 47.3
+}

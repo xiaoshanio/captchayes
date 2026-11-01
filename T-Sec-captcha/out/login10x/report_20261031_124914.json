@@ -1,0 +1,118 @@
+{
+  "username": "zanjianwan25946",
+  "times": 1,
+  "started": "2026-10-31T12:49:14+08:00",
+  "runs": [
+    {
+      "attempt": 1,
+      "ok": false,
+      "kinds": [
+        "2401",
+        "2401",
+        "2401"
+      ],
+      "solved_any": false,
+      "note": "",
+      "ms": 133218,
+      "events": [
+        {
+          "ev": "logout_by_clear_cookies"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 1,
+          "kind": "2401",
+          "title": "拖动下方滑块完成拼图",
+          "box": {
+            "x": 555,
+            "y": 359.0,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 1,
+          "wh": [
+            672,
+            390
+          ]
+        },
+        {
+          "ev": "slider",
+          "attempt": 1,
+          "gap_x": 388,
+          "score": 0.369,
+          "drag": 190.5
+        },
+        {
+          "ev": "captcha",
+          "attempt": 2,
+          "kind": "2401",
+          "title": "拖动下方滑块完成拼图",
+          "box": {
+            "x": 555,
+            "y": 359.0,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 2,
+          "wh": [
+            672,
+            390
+          ]
+        },
+        {
+          "ev": "slider",
+          "attempt": 2,
+          "gap_x": 183,
+          "score": 0.686,
+          "drag": 89.9
+        },
+        {
+          "ev": "captcha",
+          "attempt": 3,
+          "kind": "2401",
+          "title": "拖动下方滑块完成拼图",
+          "box": {
+            "x": 555,
+            "y": 359.0,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 3,
+          "wh": [
+            672,
+            390
+          ]
+        },
+        {
+          "ev": "slider",
+          "attempt": 3,
+          "gap_x": 475,
+          "score": 0.52,
+          "drag": 233.3
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "attempts": 1,
+    "success": 0,
+    "success_rate": 0.0,
+    "captcha_passed_any": 0,
+    "captcha_pass_rate": 0.0,
+    "first_kind_counts": {
+      "2401": 1
+    },
+    "first_kind_success": {},
+    "ms_mean": 133218.0,
+    "finished": "2026-10-31T12:51:50+08:00"
+  }
+}

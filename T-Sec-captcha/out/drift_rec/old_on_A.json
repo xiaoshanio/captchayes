@@ -1,0 +1,9 @@
+{
+  "tag": "old_on_A",
+  "n": 60,
+  "exact": 48,
+  "exact_rate": 0.8,
+  "err_rate": 0.0,
+  "class2_mismatch": 0.0333,
+  "ms_mean": 121.7
+}

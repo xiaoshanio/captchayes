@@ -1,0 +1,229 @@
+{
+  "n": 16,
+  "nodes": [
+    {
+      "tag": "DIV",
+      "id": "tcaptcha_transform_dy",
+      "cls": "tencent-captcha__transform",
+      "rect": [
+        540,
+        309,
+        360,
+        361
+      ],
+      "bg": "none",
+      "src": "",
+      "kind": "root"
+    },
+    {
+      "tag": "DIV",
+      "id": "tCaptchaDyContent",
+      "cls": "tencent-captcha-dy__content tencent-captcha-dy__popup-type tencent-captcha-dy__n",
+      "rect": [
+        540,
+        309,
+        360,
+        361
+      ],
+      "bg": "none",
+      "src": "",
+      "kind": "child"
+    },
+    {
+      "tag": "DIV",
+      "id": "tCaptchaDyMainWrap",
+      "cls": "tencent-captcha-dy__warp tencent-captcha-dy__slider-type-wrap",
+      "rect": [
+        540,
+        309,
+        360,
+        361
+      ],
+      "bg": "none",
+      "src": "",
+      "kind": "child"
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "tencent-captcha-dy__header-wrap",
+      "rect": [
+        555,
+        324,
+        330,
+        23
+      ],
+      "bg": "none",
+      "src": "",
+      "kind": "child"
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "tencent-captcha-dy__header-title-wrap",
+      "rect": [
+        555,
+        324,
+        330,
+        23
+      ],
+      "bg": "none",
+      "src": "",
+      "kind": "child"
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "tencent-captcha-dy__header-text",
+      "rect": [
+        555,
+        324,
+        150,
+        23
+      ],
+      "bg": "none",
+      "src": "",
+      "kind": "child"
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "tencent-captcha-dy__body-wrap",
+      "rect": [
+        555,
+        359,
+        330,
+        253
+      ],
+      "bg": "none",
+      "src": "",
+      "kind": "child"
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "tencent-captcha-dy__image-area",
+      "rect": [
+        555,
+        359,
+        330,
+        192
+      ],
+      "bg": "none",
+      "src": "",
+      "kind": "child"
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "",
+      "rect": [
+        555,
+        359,
+        330,
+        192
+      ],
+      "bg": "none",
+      "src": "",
+      "kind": "child"
+    },
+    {
+      "tag": "IMG",
+      "id": "",
+      "cls": "tencent-captcha-dy__bg-placeholder tencent-captcha-dy__bg-placeholder--slider",
+      "rect": [
+        555,
+        359,
+        330,
+        192
+      ],
+      "bg": "none",
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAABBCAMAAAA+GNBxAAAAA1BMVEVHcEyC+tLSAAAAAXRSTlMAQObYZgAAAAlwSFlzAAALEwAACxMBAJqcGAAABcNpVFh0WE1MOmNvbS5hZG9iZS",
+      "kind": "child"
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "tencent-captcha-dy__verify-bg-img tencent-captcha-dy__unselectable",
+      "rect": [
+        555,
+        359,
+        330,
+        236
+      ],
+      "bg": "url(\"https://turing.captcha.qcloud.com/cap_union_new_getcapbysig?img_index=1&image=0261090000f3b83000000015df0b66142785&sess=s0WvOAVZ_ZA2sgO2DtV08e_t7-qdJCghoI2",
+      "src": "",
+      "kind": "child"
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "tencent-captcha-dy__fg-item",
+      "rect": [
+        580,
+        479,
+        59,
+        59
+      ],
+      "bg": "url(\"https://turing.captcha.qcloud.com/cap_union_new_getcapbysig?img_index=0&image=0261090000f3b83000000015df0b66142785&sess=s0WvOAVZ_ZA2sgO2DtV08e_t7-qdJCghoI2",
+      "src": "",
+      "kind": "child"
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "tencent-captcha-dy__opera-area",
+      "rect": [
+        555,
+        567,
+        330,
+        45
+      ],
+      "bg": "none",
+      "src": "",
+      "kind": "child"
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "tencent-captcha-dy__verify-slider-area",
+      "rect": [
+        555,
+        567,
+        330,
+        47
+      ],
+      "bg": "none",
+      "src": "",
+      "kind": "child"
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "tencent-captcha-dy__slider-block tencent-captcha-dy__slider-block--normal",
+      "rect": [
+        578,
+        566,
+        60,
+        48
+      ],
+      "bg": "none",
+      "src": "",
+      "kind": "child"
+    },
+    {
+      "tag": "DIV",
+      "id": "",
+      "cls": "tencent-captcha-dy__footer-area",
+      "rect": [
+        555,
+        632,
+        330,
+        24
+      ],
+      "bg": "none",
+      "src": "",
+      "kind": "child"
+    }
+  ]
+}

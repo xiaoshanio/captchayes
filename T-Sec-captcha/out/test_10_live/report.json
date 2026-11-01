@@ -1,0 +1,9 @@
+{
+  "entry": "https://www.cun.ai/sign-in",
+  "verify_ok": true,
+  "result": null,
+  "error": null,
+  "url_after": "https://www.cun.ai/dashboard/overview",
+  "status": "验证成功！    验证错误,请重试",
+  "finished": "2026-11-01T00:04:17+08:00"
+}

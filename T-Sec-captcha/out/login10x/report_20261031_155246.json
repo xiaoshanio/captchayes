@@ -1,0 +1,77 @@
+{
+  "username": "zanjianwan25946",
+  "times": 1,
+  "started": "2026-10-31T15:52:46+08:00",
+  "runs": [
+    {
+      "attempt": 1,
+      "ok": true,
+      "kinds": [
+        "2401"
+      ],
+      "solved_any": false,
+      "note": "",
+      "captcha_accepted": true,
+      "ms": 48927,
+      "events": [
+        {
+          "ev": "logout_by_clear_cookies"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 1,
+          "kind": "2401",
+          "title": "拖动下方滑块完成拼图",
+          "box": {
+            "x": 555,
+            "y": 359.0,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 1,
+          "wh": [
+            672,
+            390
+          ]
+        },
+        {
+          "ev": "slider",
+          "attempt": 1,
+          "gap": 437.0,
+          "gap_cy": 316.0,
+          "src": "outline",
+          "score": 75.8,
+          "piece_bg": 110.0,
+          "drag": 160.6
+        },
+        {
+          "ev": "login_state",
+          "attempt": 1,
+          "url": "https://www.cun.ai/dashboard/overview",
+          "has_pw": false,
+          "bad_hit": [],
+          "err": null,
+          "reason": "ok"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "attempts": 1,
+    "success": 1,
+    "success_rate": 1.0,
+    "captcha_passed_any": 1,
+    "captcha_pass_rate": 1.0,
+    "first_kind_counts": {
+      "2401": 1
+    },
+    "first_kind_success": {
+      "2401": 1
+    },
+    "ms_mean": 48927.0,
+    "finished": "2026-10-31T15:54:50+08:00"
+  }
+}

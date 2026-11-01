@@ -1,0 +1,35 @@
+[
+  {
+    "name": "matB_gt",
+    "n": 20,
+    "exact": 17,
+    "exact_rate": 0.85,
+    "diag_mean": 0.7112,
+    "diag_p10": 0.2313,
+    "off_mean": 0.2969,
+    "off_p90": 0.7339,
+    "separation": 0.4142
+  },
+  {
+    "name": "matB_detpw",
+    "n": 20,
+    "exact": 13,
+    "exact_rate": 0.65,
+    "diag_mean": 0.8385,
+    "diag_p10": 0.4555,
+    "off_mean": 0.3051,
+    "off_p90": 0.9583,
+    "separation": 0.5334
+  },
+  {
+    "name": "matA_old",
+    "n": 20,
+    "exact": 18,
+    "exact_rate": 0.9,
+    "diag_mean": 0.9238,
+    "diag_p10": 0.8463,
+    "off_mean": 0.3033,
+    "off_p90": 0.8672,
+    "separation": 0.6204
+  }
+]

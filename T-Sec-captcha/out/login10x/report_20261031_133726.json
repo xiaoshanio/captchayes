@@ -1,0 +1,93 @@
+{
+  "username": "zanjianwan25946",
+  "times": 1,
+  "started": "2026-10-31T13:37:26+08:00",
+  "runs": [
+    {
+      "attempt": 1,
+      "ok": false,
+      "kinds": [
+        "2408"
+      ],
+      "solved_any": false,
+      "note": "",
+      "ms": 32375,
+      "events": [
+        {
+          "ev": "logout_by_clear_cookies"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 1,
+          "kind": "2408",
+          "title": "请依次点击：",
+          "box": {
+            "x": 555,
+            "y": 337.9,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 1,
+          "wh": [
+            672,
+            480
+          ]
+        },
+        {
+          "ev": "solved_2408",
+          "attempt": 1,
+          "ms": 417.1,
+          "n": 3,
+          "has_prompt": true
+        },
+        {
+          "ev": "clicked",
+          "attempt": 1,
+          "n": 3,
+          "pts": [
+            [
+              575,
+              397
+            ],
+            [
+              613,
+              515
+            ],
+            [
+              574,
+              476
+            ]
+          ]
+        },
+        {
+          "ev": "confirm_clicked",
+          "attempt": 1,
+          "kind": "2408"
+        },
+        {
+          "ev": "after_click",
+          "attempt": 1,
+          "popup": true,
+          "err": false,
+          "url": "https://www.cun.ai/dashboard"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "attempts": 1,
+    "success": 0,
+    "success_rate": 0.0,
+    "captcha_passed_any": 0,
+    "captcha_pass_rate": 0.0,
+    "first_kind_counts": {
+      "2408": 1
+    },
+    "first_kind_success": {},
+    "ms_mean": 32375.0,
+    "finished": "2026-10-31T13:38:29+08:00"
+  }
+}

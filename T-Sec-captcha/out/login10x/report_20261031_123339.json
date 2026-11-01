@@ -1,0 +1,101 @@
+{
+  "username": "zanjianwan25946",
+  "times": 1,
+  "started": "2026-10-31T12:33:39+08:00",
+  "runs": [
+    {
+      "attempt": 1,
+      "ok": false,
+      "kinds": [
+        "2401",
+        "2401",
+        "2401",
+        "2401"
+      ],
+      "solved_any": true,
+      "note": "",
+      "ms": 90823,
+      "events": [
+        {
+          "ev": "logout_by_clear_cookies"
+        },
+        {
+          "ev": "captcha",
+          "attempt": 1,
+          "kind": "2401",
+          "title": "拖动下方滑块完成拼图",
+          "box": {
+            "x": 555,
+            "y": 359.0,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "bg_ok",
+          "attempt": 1,
+          "wh": [
+            672,
+            390
+          ]
+        },
+        {
+          "ev": "slider",
+          "attempt": 1,
+          "gap_x": 596,
+          "score": 0.443,
+          "drag": 292.7
+        },
+        {
+          "ev": "captcha",
+          "attempt": 2,
+          "kind": "2401",
+          "title": "拖动下方滑块完成拼图",
+          "box": {
+            "x": 555,
+            "y": 359.0,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "captcha",
+          "attempt": 3,
+          "kind": "2401",
+          "title": "拖动下方滑块完成拼图",
+          "box": {
+            "x": 555,
+            "y": 359.0,
+            "width": 330,
+            "height": 235.7
+          }
+        },
+        {
+          "ev": "captcha",
+          "attempt": 4,
+          "kind": "2401",
+          "title": "拖动下方滑块完成拼图",
+          "box": {
+            "x": 555,
+            "y": 359.0,
+            "width": 330,
+            "height": 235.7
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "attempts": 1,
+    "success": 0,
+    "success_rate": 0.0,
+    "captcha_passed_any": 1,
+    "captcha_pass_rate": 1.0,
+    "first_kind_counts": {
+      "2401": 1
+    },
+    "first_kind_success": {},
+    "ms_mean": 90823.0,
+    "finished": "2026-10-31T12:35:42+08:00"
+  }
+}
